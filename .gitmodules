@@ -1,0 +1,4 @@
+[submodule "vulkan"]
+	path = vulkan
+	url = ../../cpp-port/windows-vulkan-headers
+	branch = main
