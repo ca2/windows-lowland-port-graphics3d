@@ -2,3 +2,11 @@
 	path = vulkan
 	url = ../../cpp-port/windows-vulkan-headers
 	branch = main
+[submodule "glad"]
+	path = glad
+	url = ../glad_3.1
+	branch = main
+[submodule "glm"]
+	path = glm
+	url = ../../g-truc/glm
+	branch = master
