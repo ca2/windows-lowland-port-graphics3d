@@ -6,7 +6,3 @@
 	path = glad
 	url = ../glad_3.1
 	branch = main
-[submodule "glm"]
-	path = glm
-	url = ../../g-truc/glm
-	branch = master
