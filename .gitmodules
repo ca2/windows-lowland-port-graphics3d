@@ -6,3 +6,7 @@
 	path = glad
 	url = ../glad_3.1
 	branch = main
+[submodule "ktx"]
+	path = ktx
+	url = ../../cpp-port/ktx
+	branch = main
