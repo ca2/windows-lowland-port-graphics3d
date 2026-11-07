@@ -10,3 +10,7 @@
 	path = ktx
 	url = ../../cpp-port/ktx
 	branch = main
+[submodule "assimp"]
+	path = assimp
+	url = ../../cpp-port/assimp
+	branch = main
